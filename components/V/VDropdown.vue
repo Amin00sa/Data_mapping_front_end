@@ -8,7 +8,7 @@
     >
       <MenuItems
         :class="filled?'w-full bg-black bg-opacity-70':'w-20 bg-gray-700'"
-        class="absolute right-0 z-20 mt-2 origin-top-right rounded-md bg-gray-700 focus:outline-none overflow-y-auto scrollbar"
+        class="absolute right-0 z-20 mt-2 origin-top-right rounded-md focus:outline-none overflow-y-auto scrollbar"
       >
         <slot name="menuItem"></slot>
       </MenuItems>

@@ -1,6 +1,6 @@
 <template>
   <MenuButton
-    class="flex items-center rounded-md p-3 bg-gray-600 bg-opacity-5 text-white hover:text-gray-600 w-full h-20"
+    class="flex items-center rounded-md p-3 bg-gray-800 text-white hover:text-gray-600 w-full h-20"
   >
     <div class="ml-2 flex flex-row justify-between w-full">
       <div class="flex flex-row gap-3">

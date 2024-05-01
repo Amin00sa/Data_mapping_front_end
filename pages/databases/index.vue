@@ -37,7 +37,7 @@
               </div>
               <div v-for="(entry,index) in entries" :key="entry.id">
                 <button
-                  class="flex items-center rounded-md p-3 bg-gray-600 bg-opacity-10 text-white hover:text-gray-600 w-full h-10"
+                  class="flex items-center rounded-md p-3 bg-gray-800 text-white hover:text-gray-600 w-full h-10"
                   type="button"
                 >
                   <div class="flex flex-row justify-between w-full">
