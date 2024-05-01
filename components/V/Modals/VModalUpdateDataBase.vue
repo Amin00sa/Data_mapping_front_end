@@ -12,7 +12,7 @@
           </v-label>
           <v-input
             id="name" v-model="formDataDataBase.name"
-            classes="block w-full rounded-lg h-12 bg-transparent text-white shadow-sm placeholder:text-gray-400 focus:ring-purple-900 focus:border-purple-900 sm:text-sm sm:leading-6"
+            classes="block w-full border border-white pl-4 rounded-lg h-12 bg-transparent text-white shadow-sm placeholder:text-gray-400 focus:border-red-900"
             name="name"
             placeholder="Graph 1"
             type="text"
@@ -35,7 +35,7 @@
                 </v-label>
                 <v-input
                   id="entry" v-model="formDataEntry.name[index]"
-                  classes="block w-full rounded-lg h-12 bg-transparent text-white shadow-sm placeholder:text-gray-400 focus:ring-purple-900 focus:border-purple-900 sm:text-sm sm:leading-6"
+                  classes="block w-full border border-white pl-4 rounded-lg h-12 bg-transparent text-white shadow-sm placeholder:text-gray-400 focus:border-red-900"
                   name="entry"
                   placeholder="value"
                   type="text"

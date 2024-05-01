@@ -1,7 +1,7 @@
 <template>
   <MenuButton
-    :class="type==='typesData'||type==='typesDataBase'?'h-12':'h-10'"
-    class="flex items-center rounded-md p-3 bg-gray-800 text-white hover:text-gray-600 w-full"
+    :class="type==='typesData'||type==='typesDataBase'?'h-12 bg-gray-700':'h-10 bg-gray-800'"
+    class="flex items-center rounded-md p-3 text-white hover:text-gray-600 w-full"
   >
     <div class="flex flex-row justify-between w-full">
       <div class="flex items-center justify-center mx-3">

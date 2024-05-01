@@ -33,7 +33,7 @@
         stroke="white" stroke-linejoin="round"
       />
     </svg>
-    <svg fill="none" height="20" viewBox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg" class="absolute -right-4">
+    <svg fill="none" height="20" viewBox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg" class="absolute -right-4 z-10">
       <g filter="url(#filter0_d_24_2865)">
         <circle cx="10" cy="1" fill="#D9D9D9" r="5" transform="rotate(-90 10 6)" />
         <circle cx="10" cy="1" r="3.5" stroke="#7735D5" stroke-width="3" transform="rotate(-90 10 6)" />
